@@ -56,3 +56,4 @@ A repository consisting of many python coding problems with questions and their 
 51. Input sales amount for 10 customers, display how many spent > 5000 taka, total sales, and average sales amount. - [Click here](./51.py)
 52. Input ages of 20 people, display how many are 18 or older, how many are under 18, and the average age. - [Click here](./52.py)
 53. Input scores of 15 students, display counts for scores ≥ 90, between 50 and 89 inclusive, and below 50, along with the average score. - [Click here](./53.py)
+54. Print a nice sentence - [Click here](./54.py)
